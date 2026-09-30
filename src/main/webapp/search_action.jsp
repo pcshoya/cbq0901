@@ -50,7 +50,7 @@
 	<td class="td-center"><%= rs.getString(11)%></td>
 	</tr>
 </table>
-<p style="text-align:center";><input type="button" value="돌아가기" onclick="location.href='search.jsp'"></p>
+<p style="text-align:center"><input type="button" value="돌아가기" onclick="location.href='search.jsp'"></p>
 <%
 	}
 	else {
